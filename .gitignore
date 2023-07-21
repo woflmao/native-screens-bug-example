@@ -22,3 +22,5 @@ web-build/
 ./DeviceConnectionModalClassic.tsx
 ./useBLE.ts
 ./README.md
+./readme.txt
+readme.txt
